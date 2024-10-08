@@ -1,0 +1,15 @@
+.Home{
+    background-color: rgb(241, 238, 234);
+}
+
+.sec-1{
+    width: 70%;
+}
+
+.Hover:hover{
+    border: 2px solid red;
+}
+
+button{
+    border: 1px solid black;
+}
